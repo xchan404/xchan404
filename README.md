@@ -367,7 +367,7 @@ const mohamed = {
 | 🏅 Certificate | 🏛️ Issuer | 📅 Year |
 |:---|:---|:---:|
 | Java Programming Fundamentals | Information Technology Institute (ITI) | 2024 |
-| B.Sc. Software Engineering *(in progress)* | Alamein International University (AIU) | 2022 – 2026 |
+| B.Sc. Software Engineering *(in progress)* | Alamein International University (AIU) | 2023 – 2027 |
 
 </div>
 
