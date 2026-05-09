@@ -150,7 +150,7 @@ LSB steganography REST API for hiding/extracting data inside images:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MADARA-AI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xchan404&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xchan404&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
 
 </div>
@@ -178,8 +178,8 @@ LSB steganography REST API for hiding/extracting data inside images:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MADARA-AI/MADARA-AI/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MADARA-AI/MADARA-AI/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xchan404/xchan404/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xchan404/xchan404/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/xchan404/xchan404/output/github-snake-dark.svg" />
 </picture>
 
@@ -209,7 +209,7 @@ LSB steganography REST API for hiding/extracting data inside images:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-soliman-aa3b26287/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MADARA-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xchan404)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhbyb6053@gmail.com)
 
 </div>
@@ -220,6 +220,6 @@ LSB steganography REST API for hiding/extracting data inside images:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MADARA-AI&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=xchan404&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
