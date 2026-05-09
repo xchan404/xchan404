@@ -151,13 +151,13 @@ LSB steganography REST API for hiding/extracting data inside images:
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MADARA-AI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADARA-AI&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xchan404&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MADARA-AI&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xchan404&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -167,7 +167,7 @@ LSB steganography REST API for hiding/extracting data inside images:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MADARA-AI&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xchan404&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -180,7 +180,7 @@ LSB steganography REST API for hiding/extracting data inside images:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MADARA-AI/MADARA-AI/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MADARA-AI/MADARA-AI/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MADARA-AI/MADARA-AI/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xchan404/xchan404/output/github-snake-dark.svg" />
 </picture>
 
 </div>
