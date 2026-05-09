@@ -70,8 +70,7 @@ const mohamed = {
 
 ### 🎯 2026 Goals
 
-- [ ] Ship UniHub to 500+ real users
-- [ ] 
+- [ ] Ship UniHub to 500+ real users 
 </td>
 </tr>
 </table>
