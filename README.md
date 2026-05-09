@@ -66,18 +66,7 @@ const mohamed = {
 | 💬 Ask me about | Kernel dev, full-stack, P2P systems |
 | ⚡ Fun fact | Built a 385-LOC kernel module that does physical memory R/W |
 
-<br/>
 
-### 🎯 2025 Goals
-
-- [ ] Publish KETA as open-source research
-- [ ] Ship UniHub to 500+ real users
-- [ ] Contribute to Linux kernel upstream
-- [ ] Land a systems engineering internship
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
